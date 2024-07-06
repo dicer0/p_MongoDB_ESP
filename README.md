@@ -11,4 +11,4 @@ And this specific repository contains documentation about the MongoDB motor, whi
 <br/>
 &nbsp;
 
-[![Postgres](http://dicer0.com/wp-content/uploads/2024/06/p_MongoDB_MkII.png)](https://dicer0.com/#skills)
+[![MongoDB](http://dicer0.com/wp-content/uploads/2024/06/p_MongoDB_MkI.png)](https://dicer0.com/#skills)
