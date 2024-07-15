@@ -6,7 +6,7 @@
     <li>_ESP means that the documentation is in Spanish.</li>
   </ul>
 </h6>
-And this specific repository contains documentation about the MongoDB motor, which is used as an Non relational and document based database.
+And this specific repository contains documentation about the MongoDB motor, which is used as an open source, Non relational, and document based database.
 &nbsp;
 <br/>
 &nbsp;
